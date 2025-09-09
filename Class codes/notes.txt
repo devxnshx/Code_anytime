@@ -1,0 +1,2 @@
+ - never say that int takes 4 bytes cause it depends on compiler to compiler
+ - &a hum isliye likhte hai kyuki ye wo address batata hai jo humne space kharidi hai storage mein 

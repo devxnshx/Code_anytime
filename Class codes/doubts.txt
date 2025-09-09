@@ -1,0 +1,54 @@
+bhaiya itti saari cheeze karli mein apne liye , abb kuch bhi kaam ni kar para like time hi itta kam se 
+
+bhaiya ye specialisation ka smjh ni ara , kyuki warna pata hi ni lagega ki kaunsi language pe dhyaan du , usse perfect karne ke liye 
+
+aur ye DC COMMUNITY pure cllge ki hoti hai kya?? 
+
+aur bhaiya ye projects kya hote hai , kis type ke hote hai aur kese bante hai ??
+
+
+
+
+1 september 
+
+- divide karte huye toh wo numerator wala sign leta hai na ? toh int/float numerator ka data type ni lega??
+- 
+
+4 september'25
+
+- how to get '₹' in printf??
+
+- how to typecaste this below program
+
+// //WAP a C program to Convert temperature from Celsius to Fahrenheit using the formula: F = (C * 9/5) + 32.
+
+// #include <stdio.h>
+
+// int main() {
+//     int temp_c;
+//     scanf("%f",&temp_c);
+
+//     float temp_f=(float)(temp_c*(9/5)+32);
+
+//     printf("Temperature in fahrenheit is %.2f",temp_f);
+//      return 0;
+// }
+
+
+//boolean
+#include <stdio.h>
+
+int main() {
+    _Bool a='false';
+    printf("%d",a);
+     return 0;
+}
+
+
+// swapping
+
+- is it possible to swap 3 or morre no. 
+like in a clockwis e direction if no.'s are putted on a circular table 
+
+
+// difference b/w exit and return 0;
